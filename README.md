@@ -1,4 +1,6 @@
 # COMP Neural Networks (CNN)
+## Video
+[Demo is available on YouTube](https://youtu.be/a3USThQnu3Y?si=RIt50kUofjgmsBfc)
 
 ## File structure
 ### trainer_code/
