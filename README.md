@@ -1,4 +1,6 @@
 # COMP Neural Networks (CNN)
+## Project Report
+The project report is available as a pdf in the root directory of the repo.
 ## Video
 [Demo is available on YouTube](https://youtu.be/a3USThQnu3Y?si=RIt50kUofjgmsBfc)
 
